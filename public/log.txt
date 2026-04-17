@@ -11895,3 +11895,650 @@
 2026-04-17 03:10:31,510 - [WARN] CRC mismatch on seq=67 — discarding
 2026-04-17 03:10:31,540 - [STORE] #1370 seq=156 | band 2 → gain_dB = 9.5000
 2026-04-17 03:10:31,570 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:22:56,257 - server listening on [::1]:8765
+2026-04-17 16:22:56,259 - server listening on 127.0.0.1:8765
+2026-04-17 16:22:58,857 - connection open
+2026-04-17 16:23:02,630 - [STORE] #1 seq=200 | band 0 → cr = 1.1000
+2026-04-17 16:23:02,691 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:02,720 - [STORE] #2 seq=205 | band 5 → cr = 1.2000
+2026-04-17 16:23:02,750 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:02,751 - [STORE] #3 seq=210 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:02,810 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:02,811 - [STORE] #4 seq=215 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:02,870 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:02,930 - [STORE] #5 seq=220 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:02,930 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:03,230 - [STORE] #6 seq=1 | band 0 → cr = 1.1000
+2026-04-17 16:23:03,290 - [STORE] #7 seq=2 | band 0 → atk_ms = 40.0000
+2026-04-17 16:23:03,349 - [STORE] #8 seq=3 | band 0 → rel_ms = 700.0000
+2026-04-17 16:23:03,382 - [STORE] #9 seq=4 | band 0 → gain_dB = -6.0000
+2026-04-17 16:23:03,441 - [STORE] #10 seq=5 | band 1 → cr = 1.2000
+2026-04-17 16:23:03,500 - [STORE] #11 seq=6 | band 1 → atk_ms = 35.0000
+2026-04-17 16:23:03,531 - [STORE] #12 seq=7 | band 1 → rel_ms = 600.0000
+2026-04-17 16:23:03,591 - [STORE] #13 seq=8 | band 1 → gain_dB = -3.0000
+2026-04-17 16:23:03,651 - [STORE] #14 seq=9 | band 2 → cr = 1.3000
+2026-04-17 16:23:03,709 - [STORE] #15 seq=10 | band 2 → atk_ms = 30.0000
+2026-04-17 16:23:03,769 - [STORE] #16 seq=11 | band 2 → rel_ms = 500.0000
+2026-04-17 16:23:03,801 - [STORE] #17 seq=12 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:03,860 - [STORE] #18 seq=13 | band 3 → cr = 1.4000
+2026-04-17 16:23:03,891 - [STORE] #19 seq=14 | band 3 → atk_ms = 25.0000
+2026-04-17 16:23:03,951 - [STORE] #20 seq=15 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:04,041 - [STORE] #21 seq=16 | band 3 → gain_dB = 2.0000
+2026-04-17 16:23:04,070 - [STORE] #22 seq=17 | band 4 → cr = 1.3000
+2026-04-17 16:23:04,101 - [STORE] #23 seq=18 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:04,161 - [STORE] #24 seq=19 | band 4 → rel_ms = 400.0000
+2026-04-17 16:23:04,220 - [STORE] #25 seq=20 | band 4 → gain_dB = 1.0000
+2026-04-17 16:23:04,251 - [STORE] #26 seq=21 | band 5 → cr = 1.2000
+2026-04-17 16:23:04,313 - [STORE] #27 seq=22 | band 5 → atk_ms = 20.0000
+2026-04-17 16:23:04,372 - [STORE] #28 seq=23 | band 5 → rel_ms = 350.0000
+2026-04-17 16:23:04,432 - [STORE] #29 seq=24 | band 5 → gain_dB = -2.0000
+2026-04-17 16:23:04,642 - [STORE] #30 seq=224 | band 0 → cr = 1.1000
+2026-04-17 16:23:04,699 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:04,701 - [STORE] #31 seq=229 | band 5 → cr = 1.2000
+2026-04-17 16:23:04,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:04,759 - [STORE] #32 seq=234 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:04,790 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:04,819 - [STORE] #33 seq=239 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:04,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:04,879 - [STORE] #34 seq=244 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:04,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:06,650 - [STORE] #35 seq=248 | band 0 → cr = 1.1000
+2026-04-17 16:23:06,680 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:06,739 - [STORE] #36 seq=253 | band 5 → cr = 1.2000
+2026-04-17 16:23:06,740 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:06,770 - [STORE] #37 seq=2 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:06,799 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:06,829 - [STORE] #38 seq=7 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:06,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:06,889 - [STORE] #39 seq=12 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:06,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:08,659 - [STORE] #40 seq=16 | band 0 → cr = 1.1000
+2026-04-17 16:23:08,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:08,719 - [STORE] #41 seq=21 | band 5 → cr = 1.2000
+2026-04-17 16:23:08,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:08,780 - [STORE] #42 seq=26 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:08,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:08,839 - [STORE] #43 seq=31 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:08,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:08,899 - [STORE] #44 seq=36 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:08,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:10,639 - [STORE] #45 seq=40 | band 0 → cr = 1.1000
+2026-04-17 16:23:10,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:10,700 - [STORE] #46 seq=45 | band 5 → cr = 1.2000
+2026-04-17 16:23:10,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:10,759 - [STORE] #47 seq=50 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:10,791 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:10,819 - [STORE] #48 seq=55 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:10,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:10,879 - [STORE] #49 seq=60 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:10,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:12,649 - [STORE] #50 seq=64 | band 0 → cr = 1.1000
+2026-04-17 16:23:12,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:12,709 - [STORE] #51 seq=69 | band 5 → cr = 1.2000
+2026-04-17 16:23:12,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:12,769 - [STORE] #52 seq=74 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:12,829 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:12,830 - [STORE] #53 seq=79 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:12,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:12,893 - [STORE] #54 seq=84 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:12,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:14,659 - [STORE] #55 seq=88 | band 0 → cr = 1.1000
+2026-04-17 16:23:14,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:14,720 - [STORE] #56 seq=93 | band 5 → cr = 1.2000
+2026-04-17 16:23:14,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:14,809 - [STORE] #57 seq=98 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:14,810 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:14,839 - [STORE] #58 seq=103 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:14,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:14,900 - [STORE] #59 seq=108 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:14,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:16,640 - [STORE] #60 seq=112 | band 0 → cr = 1.1000
+2026-04-17 16:23:16,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:16,700 - [STORE] #61 seq=117 | band 5 → cr = 1.2000
+2026-04-17 16:23:16,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:16,759 - [STORE] #62 seq=122 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:16,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:16,819 - [STORE] #63 seq=127 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:16,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:16,879 - [STORE] #64 seq=132 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:16,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:18,650 - [STORE] #65 seq=136 | band 0 → cr = 1.1000
+2026-04-17 16:23:18,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:18,709 - [STORE] #66 seq=141 | band 5 → cr = 1.2000
+2026-04-17 16:23:18,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:18,769 - [STORE] #67 seq=146 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:18,799 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:18,829 - [STORE] #68 seq=151 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:18,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:18,890 - [STORE] #69 seq=156 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:18,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:20,659 - [STORE] #70 seq=160 | band 0 → cr = 1.1000
+2026-04-17 16:23:20,692 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:20,719 - [STORE] #71 seq=165 | band 5 → cr = 1.2000
+2026-04-17 16:23:20,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:20,779 - [STORE] #72 seq=170 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:20,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:20,839 - [STORE] #73 seq=175 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:20,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:20,899 - [STORE] #74 seq=180 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:20,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:22,639 - [STORE] #75 seq=184 | band 0 → cr = 1.1000
+2026-04-17 16:23:22,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:22,701 - [STORE] #76 seq=189 | band 5 → cr = 1.2000
+2026-04-17 16:23:22,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:22,759 - [STORE] #77 seq=194 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:22,791 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:22,819 - [STORE] #78 seq=199 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:22,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:22,909 - [STORE] #79 seq=204 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:22,910 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:24,659 - [STORE] #80 seq=208 | band 0 → cr = 1.1000
+2026-04-17 16:23:24,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:24,710 - [STORE] #81 seq=213 | band 5 → cr = 1.2000
+2026-04-17 16:23:24,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:24,769 - [STORE] #82 seq=218 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:24,800 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:24,829 - [STORE] #83 seq=223 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:24,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:24,890 - [STORE] #84 seq=228 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:24,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:26,659 - [STORE] #85 seq=232 | band 0 → cr = 1.1000
+2026-04-17 16:23:26,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:26,749 - [STORE] #86 seq=237 | band 5 → cr = 1.2000
+2026-04-17 16:23:26,750 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:26,779 - [STORE] #87 seq=242 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:26,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:26,839 - [STORE] #88 seq=247 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:26,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:26,899 - [STORE] #89 seq=252 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:26,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:28,639 - [STORE] #90 seq=0 | band 0 → cr = 1.1000
+2026-04-17 16:23:28,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:28,699 - [STORE] #91 seq=5 | band 5 → cr = 1.2000
+2026-04-17 16:23:28,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:28,759 - [STORE] #92 seq=10 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:28,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:28,819 - [STORE] #93 seq=15 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:28,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:28,879 - [STORE] #94 seq=20 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:28,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:30,649 - [STORE] #95 seq=24 | band 0 → cr = 1.1000
+2026-04-17 16:23:30,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:30,709 - [STORE] #96 seq=29 | band 5 → cr = 1.2000
+2026-04-17 16:23:30,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:30,769 - [STORE] #97 seq=34 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:30,801 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:30,829 - [STORE] #98 seq=39 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:30,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:30,889 - [STORE] #99 seq=44 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:30,920 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:32,690 - [STORE] #100 seq=48 | band 0 → cr = 1.1000
+2026-04-17 16:23:32,691 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:32,692 - [STORE] #101 seq=53 | band 5 → cr = 1.2000
+2026-04-17 16:23:32,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:32,750 - [STORE] #102 seq=58 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:32,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:32,810 - [STORE] #103 seq=63 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:32,870 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:32,871 - [STORE] #104 seq=68 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:32,902 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:34,640 - [STORE] #105 seq=72 | band 0 → cr = 1.1000
+2026-04-17 16:23:34,670 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:34,701 - [STORE] #106 seq=77 | band 5 → cr = 1.2000
+2026-04-17 16:23:34,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:34,759 - [STORE] #107 seq=82 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:34,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:34,819 - [STORE] #108 seq=87 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:34,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:34,879 - [STORE] #109 seq=92 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:34,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:36,649 - [STORE] #110 seq=96 | band 0 → cr = 1.1000
+2026-04-17 16:23:36,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:36,710 - [STORE] #111 seq=101 | band 5 → cr = 1.2000
+2026-04-17 16:23:36,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:36,769 - [STORE] #112 seq=106 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:36,800 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:36,831 - [STORE] #113 seq=111 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:36,860 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:36,889 - [STORE] #114 seq=116 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:36,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:38,659 - [STORE] #115 seq=120 | band 0 → cr = 1.1000
+2026-04-17 16:23:38,689 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:38,719 - [STORE] #116 seq=125 | band 5 → cr = 1.2000
+2026-04-17 16:23:38,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:38,779 - [STORE] #117 seq=130 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:38,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:38,839 - [STORE] #118 seq=135 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:38,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:38,899 - [STORE] #119 seq=140 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:38,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:40,639 - [STORE] #120 seq=144 | band 0 → cr = 1.1000
+2026-04-17 16:23:40,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:40,700 - [STORE] #121 seq=149 | band 5 → cr = 1.2000
+2026-04-17 16:23:40,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:40,760 - [STORE] #122 seq=154 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:40,819 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:40,820 - [STORE] #123 seq=159 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:40,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:40,879 - [STORE] #124 seq=164 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:40,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:42,649 - [STORE] #125 seq=168 | band 0 → cr = 1.1000
+2026-04-17 16:23:42,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:42,709 - [STORE] #126 seq=173 | band 5 → cr = 1.2000
+2026-04-17 16:23:42,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:42,769 - [STORE] #127 seq=178 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:42,800 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:42,829 - [STORE] #128 seq=183 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:42,860 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:42,889 - [STORE] #129 seq=188 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:42,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:44,660 - [STORE] #130 seq=192 | band 0 → cr = 1.1000
+2026-04-17 16:23:44,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:44,719 - [STORE] #131 seq=197 | band 5 → cr = 1.2000
+2026-04-17 16:23:44,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:44,750 - [STORE] #132 seq=202 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:44,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:44,810 - [STORE] #133 seq=207 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:44,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:44,870 - [STORE] #134 seq=212 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:44,899 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:46,639 - [STORE] #135 seq=216 | band 0 → cr = 1.1000
+2026-04-17 16:23:46,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:46,699 - [STORE] #136 seq=221 | band 5 → cr = 1.2000
+2026-04-17 16:23:46,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:46,759 - [STORE] #137 seq=226 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:46,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:46,819 - [STORE] #138 seq=231 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:46,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:46,879 - [STORE] #139 seq=236 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:46,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:48,650 - [STORE] #140 seq=240 | band 0 → cr = 1.1000
+2026-04-17 16:23:48,680 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:48,709 - [STORE] #141 seq=245 | band 5 → cr = 1.2000
+2026-04-17 16:23:48,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:48,769 - [STORE] #142 seq=250 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:48,800 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:48,829 - [STORE] #143 seq=255 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:48,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:48,889 - [STORE] #144 seq=4 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:48,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:50,629 - [STORE] #145 seq=8 | band 0 → cr = 1.1000
+2026-04-17 16:23:50,691 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:50,691 - [STORE] #146 seq=13 | band 5 → cr = 1.2000
+2026-04-17 16:23:50,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:50,779 - [STORE] #147 seq=18 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:50,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:50,839 - [STORE] #148 seq=23 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:50,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:50,900 - [STORE] #149 seq=28 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:50,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:52,640 - [STORE] #150 seq=32 | band 0 → cr = 1.1000
+2026-04-17 16:23:52,671 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:52,700 - [STORE] #151 seq=37 | band 5 → cr = 1.2000
+2026-04-17 16:23:52,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:52,759 - [STORE] #152 seq=42 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:52,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:52,819 - [STORE] #153 seq=47 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:52,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:52,879 - [STORE] #154 seq=52 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:52,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:54,649 - [STORE] #155 seq=56 | band 0 → cr = 1.1000
+2026-04-17 16:23:54,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:54,709 - [STORE] #156 seq=61 | band 5 → cr = 1.2000
+2026-04-17 16:23:54,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:54,769 - [STORE] #157 seq=66 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:54,800 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:54,830 - [STORE] #158 seq=71 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:54,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:54,889 - [STORE] #159 seq=76 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:54,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:56,659 - [STORE] #160 seq=80 | band 0 → cr = 1.1000
+2026-04-17 16:23:56,689 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:56,719 - [STORE] #161 seq=85 | band 5 → cr = 1.2000
+2026-04-17 16:23:56,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:56,779 - [STORE] #162 seq=90 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:56,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:56,839 - [STORE] #163 seq=95 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:56,870 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:56,899 - [STORE] #164 seq=100 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:56,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:58,639 - [STORE] #165 seq=104 | band 0 → cr = 1.1000
+2026-04-17 16:23:58,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:23:58,700 - [STORE] #166 seq=109 | band 5 → cr = 1.2000
+2026-04-17 16:23:58,760 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:23:58,760 - [STORE] #167 seq=114 | band 4 → atk_ms = 20.0000
+2026-04-17 16:23:58,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:23:58,819 - [STORE] #168 seq=119 | band 3 → rel_ms = 450.0000
+2026-04-17 16:23:58,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:23:58,880 - [STORE] #169 seq=124 | band 2 → gain_dB = 0.0000
+2026-04-17 16:23:58,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:00,649 - [STORE] #170 seq=128 | band 0 → cr = 1.1000
+2026-04-17 16:24:00,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:00,709 - [STORE] #171 seq=133 | band 5 → cr = 1.2000
+2026-04-17 16:24:00,743 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:00,772 - [STORE] #172 seq=138 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:00,800 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:00,830 - [STORE] #173 seq=143 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:00,860 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:00,889 - [STORE] #174 seq=148 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:00,920 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:02,660 - [STORE] #175 seq=152 | band 0 → cr = 1.1000
+2026-04-17 16:24:02,691 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:02,692 - [STORE] #176 seq=157 | band 5 → cr = 1.2000
+2026-04-17 16:24:02,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:02,750 - [STORE] #177 seq=162 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:02,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:02,842 - [STORE] #178 seq=167 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:02,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:02,870 - [STORE] #179 seq=172 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:02,899 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:04,639 - [STORE] #180 seq=176 | band 0 → cr = 1.1000
+2026-04-17 16:24:04,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:04,701 - [STORE] #181 seq=181 | band 5 → cr = 1.2000
+2026-04-17 16:24:04,759 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:04,760 - [STORE] #182 seq=186 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:04,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:04,820 - [STORE] #183 seq=191 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:04,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:04,879 - [STORE] #184 seq=196 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:04,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:06,649 - [STORE] #185 seq=200 | band 0 → cr = 1.1000
+2026-04-17 16:24:06,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:06,709 - [STORE] #186 seq=205 | band 5 → cr = 1.2000
+2026-04-17 16:24:06,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:06,768 - [STORE] #187 seq=210 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:06,798 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:06,828 - [STORE] #188 seq=215 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:06,858 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:06,889 - [STORE] #189 seq=220 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:06,919 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:08,659 - [STORE] #190 seq=224 | band 0 → cr = 1.1000
+2026-04-17 16:24:08,689 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:08,719 - [STORE] #191 seq=229 | band 5 → cr = 1.2000
+2026-04-17 16:24:08,751 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:08,779 - [STORE] #192 seq=234 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:08,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:08,839 - [STORE] #193 seq=239 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:08,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:08,899 - [STORE] #194 seq=244 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:08,900 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:10,639 - [STORE] #195 seq=248 | band 0 → cr = 1.1000
+2026-04-17 16:24:10,670 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:10,703 - [STORE] #196 seq=253 | band 5 → cr = 1.2000
+2026-04-17 16:24:10,730 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:10,759 - [STORE] #197 seq=2 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:10,789 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:10,819 - [STORE] #198 seq=7 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:10,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:10,879 - [STORE] #199 seq=12 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:10,909 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:12,650 - [STORE] #200 seq=16 | band 0 → cr = 1.1000
+2026-04-17 16:24:12,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:12,709 - [STORE] #201 seq=21 | band 5 → cr = 1.2000
+2026-04-17 16:24:12,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:12,769 - [STORE] #202 seq=26 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:12,829 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:12,830 - [STORE] #203 seq=31 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:12,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:12,889 - [STORE] #204 seq=36 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:12,918 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:14,659 - [STORE] #205 seq=40 | band 0 → cr = 1.1000
+2026-04-17 16:24:14,689 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:14,719 - [STORE] #206 seq=45 | band 5 → cr = 1.2000
+2026-04-17 16:24:14,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:14,779 - [STORE] #207 seq=50 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:14,809 - [WARN] CRC mismatch on seq=68 — discarding
+2026-04-17 16:24:14,839 - [STORE] #208 seq=55 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:14,868 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:14,901 - [STORE] #209 seq=60 | band 2 → gain_dB = 0.0000
+2026-04-17 16:24:14,901 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:16,669 - [STORE] #210 seq=64 | band 0 → cr = 1.1000
+2026-04-17 16:24:16,672 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:16,700 - [STORE] #211 seq=69 | band 5 → cr = 1.2000
+2026-04-17 16:24:16,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:16,759 - [STORE] #212 seq=74 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:16,789 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:16,819 - [STORE] #213 seq=79 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:16,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:16,879 - [STORE] #214 seq=84 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:16,908 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:18,649 - [STORE] #215 seq=88 | band 0 → cr = 1.1000
+2026-04-17 16:24:18,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:18,709 - [STORE] #216 seq=93 | band 5 → cr = 1.2000
+2026-04-17 16:24:18,740 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:18,769 - [STORE] #217 seq=98 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:18,801 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:18,829 - [STORE] #218 seq=103 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:18,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:18,889 - [STORE] #219 seq=108 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:18,919 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:20,629 - [STORE] #220 seq=112 | band 0 → cr = 1.1000
+2026-04-17 16:24:20,691 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:20,692 - [STORE] #221 seq=117 | band 5 → cr = 1.2000
+2026-04-17 16:24:20,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:20,779 - [STORE] #222 seq=122 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:20,809 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:20,810 - [STORE] #223 seq=127 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:20,870 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:20,870 - [STORE] #224 seq=132 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:20,899 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:22,639 - [STORE] #225 seq=136 | band 0 → cr = 1.1000
+2026-04-17 16:24:22,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:22,701 - [STORE] #226 seq=141 | band 5 → cr = 1.2000
+2026-04-17 16:24:22,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:22,759 - [STORE] #227 seq=146 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:22,790 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:22,819 - [STORE] #228 seq=151 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:22,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:22,879 - [STORE] #229 seq=156 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:22,909 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:24,649 - [STORE] #230 seq=160 | band 0 → cr = 1.1000
+2026-04-17 16:24:24,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:24,709 - [STORE] #231 seq=165 | band 5 → cr = 1.2000
+2026-04-17 16:24:24,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:24,769 - [STORE] #232 seq=170 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:24,800 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:24,829 - [STORE] #233 seq=175 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:24,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:24,889 - [STORE] #234 seq=180 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:24,918 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:26,659 - [STORE] #235 seq=184 | band 0 → cr = 1.1000
+2026-04-17 16:24:26,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:26,719 - [STORE] #236 seq=189 | band 5 → cr = 1.2000
+2026-04-17 16:24:26,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:26,779 - [STORE] #237 seq=194 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:26,809 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:26,839 - [STORE] #238 seq=199 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:26,930 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:26,931 - [STORE] #239 seq=204 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:26,931 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:28,639 - [STORE] #240 seq=208 | band 0 → cr = 1.1000
+2026-04-17 16:24:28,670 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:28,700 - [STORE] #241 seq=213 | band 5 → cr = 1.2000
+2026-04-17 16:24:28,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:28,789 - [STORE] #242 seq=218 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:28,790 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:28,822 - [STORE] #243 seq=223 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:28,850 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:28,880 - [STORE] #244 seq=228 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:28,908 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:30,649 - [STORE] #245 seq=232 | band 0 → cr = 1.1000
+2026-04-17 16:24:30,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:30,739 - [STORE] #246 seq=237 | band 5 → cr = 1.2000
+2026-04-17 16:24:30,740 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:30,769 - [STORE] #247 seq=242 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:30,829 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:30,830 - [STORE] #248 seq=247 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:30,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:30,889 - [STORE] #249 seq=252 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:30,919 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:32,659 - [STORE] #250 seq=0 | band 0 → cr = 1.1000
+2026-04-17 16:24:32,689 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:32,719 - [STORE] #251 seq=5 | band 5 → cr = 1.2000
+2026-04-17 16:24:32,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:32,779 - [STORE] #252 seq=10 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:32,809 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:32,839 - [STORE] #253 seq=15 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:32,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:32,900 - [STORE] #254 seq=20 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:32,900 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:34,639 - [STORE] #255 seq=24 | band 0 → cr = 1.1000
+2026-04-17 16:24:34,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:34,700 - [STORE] #256 seq=29 | band 5 → cr = 1.2000
+2026-04-17 16:24:34,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:34,759 - [STORE] #257 seq=34 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:34,789 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:34,819 - [STORE] #258 seq=39 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:34,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:34,879 - [STORE] #259 seq=44 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:34,909 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:36,648 - [STORE] #260 seq=48 | band 0 → cr = 1.1000
+2026-04-17 16:24:36,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:36,709 - [STORE] #261 seq=53 | band 5 → cr = 1.2000
+2026-04-17 16:24:36,740 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:36,769 - [STORE] #262 seq=58 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:36,799 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:36,829 - [STORE] #263 seq=63 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:36,858 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:36,889 - [STORE] #264 seq=68 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:36,919 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:38,659 - [STORE] #265 seq=72 | band 0 → cr = 1.1000
+2026-04-17 16:24:38,689 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:38,720 - [STORE] #266 seq=77 | band 5 → cr = 1.2000
+2026-04-17 16:24:38,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:38,779 - [STORE] #267 seq=82 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:38,809 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:38,839 - [STORE] #268 seq=87 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:38,868 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:38,899 - [STORE] #269 seq=92 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:38,900 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:40,639 - [STORE] #270 seq=96 | band 0 → cr = 1.1000
+2026-04-17 16:24:40,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:40,700 - [STORE] #271 seq=101 | band 5 → cr = 1.2000
+2026-04-17 16:24:40,728 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:40,789 - [STORE] #272 seq=106 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:40,789 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:40,819 - [STORE] #273 seq=111 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:40,879 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:40,880 - [STORE] #274 seq=116 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:40,909 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:42,650 - [STORE] #275 seq=120 | band 0 → cr = 1.1000
+2026-04-17 16:24:42,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:42,710 - [STORE] #276 seq=125 | band 5 → cr = 1.2000
+2026-04-17 16:24:42,742 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:42,770 - [STORE] #277 seq=130 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:42,799 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:42,830 - [STORE] #278 seq=135 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:42,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:42,889 - [STORE] #279 seq=140 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:42,919 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:44,660 - [STORE] #280 seq=144 | band 0 → cr = 1.1000
+2026-04-17 16:24:44,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:44,719 - [STORE] #281 seq=149 | band 5 → cr = 1.2000
+2026-04-17 16:24:44,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:44,779 - [STORE] #282 seq=154 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:44,810 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:44,842 - [STORE] #283 seq=159 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:44,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:44,899 - [STORE] #284 seq=164 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:44,900 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:46,639 - [STORE] #285 seq=168 | band 0 → cr = 1.1000
+2026-04-17 16:24:46,669 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:46,699 - [STORE] #286 seq=173 | band 5 → cr = 1.2000
+2026-04-17 16:24:46,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:46,759 - [STORE] #287 seq=178 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:46,789 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:46,819 - [STORE] #288 seq=183 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:46,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:46,879 - [STORE] #289 seq=188 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:46,909 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:48,650 - [STORE] #290 seq=192 | band 0 → cr = 1.1000
+2026-04-17 16:24:48,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:48,709 - [STORE] #291 seq=197 | band 5 → cr = 1.2000
+2026-04-17 16:24:48,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:48,769 - [STORE] #292 seq=202 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:48,799 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:48,829 - [STORE] #293 seq=207 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:48,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:48,889 - [STORE] #294 seq=212 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:48,919 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:50,659 - [STORE] #295 seq=216 | band 0 → cr = 1.1000
+2026-04-17 16:24:50,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:50,692 - [STORE] #296 seq=221 | band 5 → cr = 1.2000
+2026-04-17 16:24:50,749 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:50,779 - [STORE] #297 seq=226 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:50,810 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:50,810 - [STORE] #298 seq=231 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:50,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:50,880 - [STORE] #299 seq=236 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:50,900 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:52,670 - [STORE] #300 seq=240 | band 0 → cr = 1.1000
+2026-04-17 16:24:52,670 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:52,700 - [STORE] #301 seq=245 | band 5 → cr = 1.2000
+2026-04-17 16:24:52,729 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:52,760 - [STORE] #302 seq=250 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:52,790 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:52,819 - [STORE] #303 seq=255 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:52,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:52,879 - [STORE] #304 seq=4 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:52,909 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:54,649 - [STORE] #305 seq=8 | band 0 → cr = 1.1000
+2026-04-17 16:24:54,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:54,709 - [STORE] #306 seq=13 | band 5 → cr = 1.2000
+2026-04-17 16:24:54,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:54,770 - [STORE] #307 seq=18 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:54,800 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:54,829 - [STORE] #308 seq=23 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:54,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:54,889 - [STORE] #309 seq=28 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:54,919 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:56,660 - [STORE] #310 seq=32 | band 0 → cr = 1.1000
+2026-04-17 16:24:56,689 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:56,719 - [STORE] #311 seq=37 | band 5 → cr = 1.2000
+2026-04-17 16:24:56,750 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:56,780 - [STORE] #312 seq=42 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:56,810 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:56,839 - [STORE] #313 seq=47 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:56,870 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:56,900 - [STORE] #314 seq=52 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:56,901 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:24:58,638 - [STORE] #315 seq=56 | band 0 → cr = 1.1000
+2026-04-17 16:24:58,668 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:24:58,699 - [STORE] #316 seq=61 | band 5 → cr = 1.2000
+2026-04-17 16:24:58,728 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:24:58,759 - [STORE] #317 seq=66 | band 4 → atk_ms = 20.0000
+2026-04-17 16:24:58,789 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:58,819 - [STORE] #318 seq=71 | band 3 → rel_ms = 450.0000
+2026-04-17 16:24:58,849 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:24:58,909 - [STORE] #319 seq=76 | band 2 → gain_dB = 1.5000
+2026-04-17 16:24:58,910 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:25:00,649 - [STORE] #320 seq=80 | band 0 → cr = 1.1000
+2026-04-17 16:25:00,679 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:25:00,709 - [STORE] #321 seq=85 | band 5 → cr = 1.2000
+2026-04-17 16:25:00,739 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:25:00,769 - [STORE] #322 seq=90 | band 4 → atk_ms = 20.0000
+2026-04-17 16:25:00,799 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:25:00,830 - [STORE] #323 seq=95 | band 3 → rel_ms = 450.0000
+2026-04-17 16:25:00,859 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:25:00,889 - [STORE] #324 seq=100 | band 2 → gain_dB = 1.5000
+2026-04-17 16:25:00,918 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:25:02,659 - [STORE] #325 seq=104 | band 0 → cr = 1.1000
+2026-04-17 16:25:02,690 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:25:02,750 - [STORE] #326 seq=109 | band 5 → cr = 1.2000
+2026-04-17 16:25:02,751 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:25:02,779 - [STORE] #327 seq=114 | band 4 → atk_ms = 20.0000
+2026-04-17 16:25:02,809 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:25:02,839 - [STORE] #328 seq=119 | band 3 → rel_ms = 450.0000
+2026-04-17 16:25:02,869 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:25:02,899 - [STORE] #329 seq=124 | band 2 → gain_dB = 1.5000
+2026-04-17 16:25:02,900 - [WARN] CRC mismatch on seq=64 — discarding
+2026-04-17 16:25:04,641 - [STORE] #330 seq=128 | band 0 → cr = 1.1000
+2026-04-17 16:25:04,668 - [WARN] CRC mismatch on seq=63 — discarding
+2026-04-17 16:25:04,699 - [STORE] #331 seq=133 | band 5 → cr = 1.2000
+2026-04-17 16:25:04,728 - [WARN] CRC mismatch on seq=66 — discarding
+2026-04-17 16:25:04,759 - [STORE] #332 seq=138 | band 4 → atk_ms = 20.0000
+2026-04-17 16:25:04,789 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:25:04,822 - [STORE] #333 seq=143 | band 3 → rel_ms = 450.0000
+2026-04-17 16:25:04,852 - [WARN] CRC mismatch on seq=67 — discarding
+2026-04-17 16:25:04,882 - [STORE] #334 seq=148 | band 2 → gain_dB = 1.5000
+2026-04-17 16:25:04,909 - [WARN] CRC mismatch on seq=64 — discarding
